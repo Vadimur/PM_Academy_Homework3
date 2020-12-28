@@ -1,0 +1,37 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Vadym\\RiderProjects\\PM_Academy_Homework3\\Task_1.1\\Task_1.1.csproj",
+    "projectName": "Task_1.1",
+    "projectPath": "C:\\Users\\Vadym\\RiderProjects\\PM_Academy_Homework3\\Task_1.1\\Task_1.1.csproj",
+    "outputPath": "C:\\Users\\Vadym\\RiderProjects\\PM_Academy_Homework3\\Task_1.1\\obj\\",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "net472"
+    ],
+    "sources": {
+      "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "net472": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "net472": {
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+    }
+  },
+  "runtimes": {
+    "win7-x86": {
+      "#import": []
+    }
+  }
+}

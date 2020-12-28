@@ -1,0 +1,9 @@
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework3\Task_1.3\bin\Debug\net472\Task_1.3.exe.config
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework3\Task_1.3\bin\Debug\net472\Task_1.3.exe
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework3\Task_1.3\bin\Debug\net472\Task_1.3.pdb
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework3\Task_1.3\obj\Debug\net472\Task_1.3.csprojAssemblyReference.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework3\Task_1.3\obj\Debug\net472\Task_1.3.AssemblyInfoInputs.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework3\Task_1.3\obj\Debug\net472\Task_1.3.AssemblyInfo.cs
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework3\Task_1.3\obj\Debug\net472\Task_1.3.csproj.CoreCompileInputs.cache
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework3\Task_1.3\obj\Debug\net472\Task_1.3.exe
+C:\Users\Vadym\RiderProjects\PM_Academy_Homework3\Task_1.3\obj\Debug\net472\Task_1.3.pdb
